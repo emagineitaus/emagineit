@@ -218,6 +218,8 @@ a:focus {
 .tm-bg-light-orange { background-color: #DDD3C1; }
 .tm-text-white, .tm-text-white a { color: #ffffff; }
 
+.tm-bg-darkgrey { background-color: #3b3d3e; }
+
 .tm-section-3-header { max-width: 620px; }
 .tm-section-3-title { 
 	font-weight: 300;
@@ -226,6 +228,7 @@ a:focus {
 .tm-section-3-description { 
 	line-height: 1.8; 
 	margin-bottom: 4rem;
+	background-color: #3b3d3e; 
 }
 
 .tm-carousel-item-text { line-height: 1.9; }
